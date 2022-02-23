@@ -10,7 +10,7 @@ const Banner = () => {
       </Typography>
       <Typography variant="subtitle1" gutterBottom component="div" sx={{lineHeight:1.4, fontWeight:300, color:"white", letterSpacing:1.2, maxWidth:"700px", mx:"auto",  px:"10%"}}>
       After 12 years in the advertising industry as a graphic designer, I felt the need for renewal.
-      I am currently doing an internship at BeCode Brussels in web development, with a particular interest in front-end development with HTML, CSS, React, and Material UI.
+      I am currently doing a training at BeCode Brussels in web development, with a particular interest in front-end development with HTML, CSS, React, and Material UI.
       </Typography>
 
     </Box>
