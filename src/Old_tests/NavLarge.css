@@ -1,0 +1,47 @@
+.nav {
+  padding: 10px;
+}
+
+.nav_list {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 10px;
+}
+
+.nav_item {
+  padding: 6px;
+  margin-top: 4px;
+  text-align: center;
+  font-weight: 300;
+  letter-spacing: 2px;
+  font-size: 16px;
+  text-transform: uppercase;
+  list-style: none;
+  transition: 1s;
+}
+
+.sous_icone {
+  color: white;
+}
+
+.nav_item:hover {
+  font-weight: 400;
+  font-family: "Habibi", serif;
+  letter-spacing: 8px;
+}
+
+.nav_item:active {
+  color: black !important;
+}
+
+.nav_item:hover .sous_icone {
+  color: black;
+}
+
+.lien {
+  text-decoration: none;
+}
